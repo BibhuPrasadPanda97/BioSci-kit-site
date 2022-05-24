@@ -9,9 +9,17 @@
     border-radius: 0.625rem;
 }
 
+.white-hr{
+    border: 5px solid white;
+    border-bottom: none;
+    width: 5%;
+    border-radius: 0.625rem;
+}
+
 /* button */
 .btn-primary{
     background-color: #1d7592aa;
+    padding: 10px 1.5rem;
     border: none;
 }
 

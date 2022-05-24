@@ -4,7 +4,7 @@ body {
 }
 
 .container-fluid{
-    padding: 1% 12%;
+    padding: 1% 10%;
 }
 
 .logo {
@@ -35,11 +35,6 @@ body {
 }
 
 .main-text {
-    min-width: fit-content;
-    max-width: 80%;
-    /* width: 45%; */
-    /* font-family: 'Rammetto One', cursive; */
-    /* text-align: left; */
     background-color: rgba(245, 245, 245, 0.4);
     border: 1px solid rgba(200, 200, 200, 0.4);
     box-shadow: 7px 3px rgba(0, 0, 0, 0.4);
