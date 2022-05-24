@@ -1,0 +1,46 @@
+.Rammetto-One{
+    font-family: 'Rammetto One', cursive;
+}
+
+.hr{
+    border: 5px solid #07668f;
+    border-bottom: none;
+    width: 5%;
+    border-radius: 0.625rem;
+}
+
+/* button */
+.btn-primary{
+    background-color: #1d7592aa;
+    border: none;
+}
+
+/* Font sizes */
+.montserrat-regular{
+    font-weight: 400;
+}
+
+.montserrat-medium{
+    font-weight: 500;
+}
+
+.montserrat-semi-bold{
+    font-weight: 600;
+}
+
+.montserrat-bold{
+    font-weight: 700;
+}
+
+.montserrat-extra-bold{
+    font-weight: 800;
+}
+
+/* For pop-up or Zoom on hovering the element */
+
+.zoom{
+    transition: transform .2s;
+}
+.zoom:hover{
+    transform: scale(1.25);
+}

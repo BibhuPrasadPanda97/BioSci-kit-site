@@ -1,0 +1,156 @@
+body {
+    margin: 0;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.container-fluid{
+    padding: 1% 12%;
+}
+
+.logo {
+    width: 3.5rem;
+    height: 3.5rem;
+}
+
+.bg-light {
+    background-color: #F6FAFD !important;
+}
+
+
+.nav-link,
+.navbar-brand {
+    color: black;
+}
+
+.navbar-brand {
+    /* line-height: 1.5rem; */
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 2.5rem;
+}
+
+#title {
+    background-image: url(/images/background-img-1.jpg);
+    background-repeat: no-repeat;
+    /* background-size: 100%; */
+}
+
+.main-text {
+    min-width: fit-content;
+    max-width: 80%;
+    /* width: 45%; */
+    /* font-family: 'Rammetto One', cursive; */
+    /* text-align: left; */
+    background-color: rgba(245, 245, 245, 0.4);
+    border: 1px solid rgba(200, 200, 200, 0.4);
+    box-shadow: 7px 3px rgba(0, 0, 0, 0.4);
+    border-radius: 1rem;
+}
+
+.heading-1 {
+    font-size: 2.8rem;
+    font-style: bold;
+}
+
+.mx-9 {
+    margin-left: 9rem !important;
+    margin-right: 9rem !important;
+}
+
+.my-10 {
+    margin-top: 8rem;
+    margin-bottom: 12rem;
+}
+
+button{
+    border-radius: 1rem;
+}
+
+/* Pop on Hover */
+/* @-webkit-keyframes pop-on-hover {
+    50% {
+        -webkit-transform: scale(1.2);
+        transform: scale(1.2);
+    }
+}
+
+@keyframes pop-on-hover {
+    50% {
+        -webkit-transform: scale(1.2);
+        transform: scale(1.2);
+    }
+}
+
+.pop-on-hover {
+    display: inline-block;
+    vertical-align: middle;
+    -webkit-transform: perspective(1px) translateZ(0);
+    transform: perspective(1px) translateZ(0);
+    box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+}
+
+.pop-on-hover:hover,
+.pop-on-hover:focus,
+.pop-on-hover:active {
+    -webkit-animation-name: pop-on-hover;
+    animation-name: pop-on-hover;
+    -webkit-animation-duration: 0.5s;
+    animation-duration: 0.5s;
+    -webkit-animation-timing-function: linear;
+    animation-timing-function: linear;
+    -webkit-animation-iteration-count: 1;
+    animation-iteration-count: 1;
+} */
+
+/* Section-2 or main-2 */
+
+.main-2{
+    background-color: #e7f3fa;
+    padding: 1% 12% 1%;
+    text-align: center;
+}
+
+.main-2-information p{
+    font-size: 1.25rem;
+    max-width: 75%;
+}
+
+.card-section{
+    justify-content: center;
+}
+
+.card{
+    border-radius: 1rem;
+}
+
+/* Section-3 */
+
+#section-3{
+    /* background-image: url(/images/background-img-2.jpg); */
+    background-color: #1d7592aa;
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* Add the blur effect */
+    /* filter: blur(0.125rem); */
+    padding-bottom: 2rem;
+}
+
+.main-3{
+    /* background-color: #e7f3fa; */
+    padding: 1% 12% 1%;
+    text-align: center;
+}
+
+.main-3-information p{
+    font-size: 1.25rem;
+    /* color: white; */
+    max-width: 80%;
+}
+
+/* icons */
+/* .card-section-2{
+    padding-bottom: 3.5rem;
+} */
+
+.card-icon{
+    width: 15%;
+}
