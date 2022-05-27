@@ -52,3 +52,9 @@
 .zoom:hover{
     transform: scale(1.25);
 }
+
+/* text-carousel */
+.carouselExampleIndicators{
+    height: 32rem;
+    width: 32rem;
+}

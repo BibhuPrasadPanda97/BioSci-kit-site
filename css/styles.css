@@ -149,3 +149,41 @@ button{
 .card-icon{
     width: 15%;
 }
+
+/* Section-4 */
+#section-4{
+    background-color: #e7f3fa;
+    padding: 1% 12% 1%;
+}
+
+.main-4-information p{
+    font-size: 1.25rem;
+    /* color: white; */
+    /* max-width: 80%; */
+}
+
+.sec-4-icon{
+    width: 40%;
+}
+
+#section-4 p{
+    font-size: 20px;
+}
+
+/* section-5 */
+
+#section-5{
+    background-color: #042a36;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 1% 12% 1%;
+}
+
+/* .button{
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    text-align: center;
+    justify-content: center;
+} */
+
